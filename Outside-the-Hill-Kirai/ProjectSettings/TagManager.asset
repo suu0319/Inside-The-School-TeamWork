@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnterShining
+  - EscapeShining
+  - Ghost
+  - Loading
+  - Fogtrigger
+  - CheckPoint
+  - Interaction2DUI
+  - Door
+  - ToiletDoor
+  - InteractionGet
+  - StudentDoor
+  - GeneralDoor
+  - BiologyDoor
+  - FireExtinguish
+  - Smoke
+  - BiologyPuzzleDoor
+  - IronDoorSwitch
+  - InteractionText
+  - SteamBoxSwitch
+  - LibraryDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcess
+  - Ground
+  - WoodGhost
+  - InteractionE
+  - book
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
