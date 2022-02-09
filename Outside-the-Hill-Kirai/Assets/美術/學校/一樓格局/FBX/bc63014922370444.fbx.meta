@@ -1,29 +1,9 @@
 fileFormatVersion: 2
-guid: 7a76a418109fde94299fb4a2748edd22
+guid: c695b42db0796f6409c18862e6b6d767
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5F69\u78DA\u4E2D\u5EADMaterial"
-    second: {fileID: 2100000, guid: 9af74fd6cf9cc0b4ea560c750e08203d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u8D70\u5ECA\u5DE6\u82B1\u5712Material"
-    second: {fileID: 2100000, guid: 3b47df35ecf59dd4e9de9e5937aeee52, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u5F69\u78DA\u4E2D\u5EAD\u4E8CUVmap"
-    second: {fileID: 2800000, guid: c87e6e2d4f9d0ad4483cebfec416a6df, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u8D70\u5ECA&\u6D17\u624B\u53F0&\u5DE6\u82B1\u5712UVmap"
-    second: {fileID: 2800000, guid: 0389fd3b8d0eaa04ca65117c469e93ff, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -59,13 +39,13 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -89,7 +69,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []

@@ -1,54 +1,9 @@
 fileFormatVersion: 2
-guid: 0834407f63d51614e9664eebbbe01229
+guid: 809a5f40d94ce0b49ae71c45ed9d9f46
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5750\u5F0F\u99AC\u6876Material"
-    second: {fileID: 2100000, guid: 46a8087536e5c1f458f88ee8fdac5f0f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5C0F\u4FBF\u6597\u9694\u677FMaterial"
-    second: {fileID: 2100000, guid: 2e418171b0bf62e439c14364ade84f37, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5EC1\u6240\u7A7A\u9593Material"
-    second: {fileID: 2100000, guid: 0e2879afb822e954fa902c61f818ec24, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5EC1\u6240\u9580Material"
-    second: {fileID: 2100000, guid: 5420cae7a320c0043951d56568d93ac1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u6A19\u793A\u724CMaterial"
-    second: {fileID: 2100000, guid: a84499aee5ff3cc448e3ac8c2bba3a31, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u6D17\u624B\u53F0Material"
-    second: {fileID: 2100000, guid: a176b55b851aa164fa804b8343b53d96, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u885B\u751F\u5783\u573E\u6876Material"
-    second: {fileID: 2100000, guid: cea3c892199af864cb2cf13bdf56ade6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u8E72\u5F0F\u99AC\u6876Material"
-    second: {fileID: 2100000, guid: 31c1f89f2ce3e2c4b91df2cdc5ce8a45, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u93E1\u5B50Material"
-    second: {fileID: 2100000, guid: 5a84af4a9ab939643b4cef3b0e469a9e, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -84,13 +39,13 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -114,7 +69,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []

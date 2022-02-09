@@ -1,53 +1,13 @@
 fileFormatVersion: 2
-guid: 714f555990a4a78449808d511c4f484d
+guid: a4d1e136d6a86a443821cf9815671a8e
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: Cube.001
-  - first:
-      1: 100002
-    second: //RootNode
-  - first:
-      4: 400000
-    second: Cube.001
-  - first:
-      4: 400002
-    second: //RootNode
-  - first:
-      23: 2300000
-    second: Cube.001
-  - first:
-      23: 2300002
-    second: //RootNode
-  - first:
-      33: 3300000
-    second: Cube.001
-  - first:
-      33: 3300002
-    second: //RootNode
-  - first:
-      43: 4300000
-    second: Cube
-  - first:
-      43: 4300002
-    second: Cube.001
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.001
-    second: {fileID: 2100000, guid: cbbbc9e14b48c3b4786657e10f780751, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: g
-    second: {fileID: 2100000, guid: 165e40590f290d74587cdadb1c1477d0, type: 2}
+  internalIDToNameTable: []
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
-    materialSearch: 0
+    materialSearch: 1
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
@@ -71,21 +31,21 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.5
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
-    fileIdsGeneration: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -105,11 +65,11 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
@@ -121,14 +81,14 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.5
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   avatarSetup: 0
   additionalBone: 0

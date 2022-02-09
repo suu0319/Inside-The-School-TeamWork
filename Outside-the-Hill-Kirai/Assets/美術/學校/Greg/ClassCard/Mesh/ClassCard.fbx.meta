@@ -1,64 +1,9 @@
 fileFormatVersion: 2
-guid: df5b0f556c9d2314bbb142a9cf183a52
+guid: eba6bbcbc174aa0498afc716072ed1ed
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ClassCard_77
-    second: {fileID: 2100000, guid: 3c68411f0e8208d4fb26fba703911f27, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ClassCard_84
-    second: {fileID: 2100000, guid: c5c2314ced434b744a0172aac30c32d0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ClassCard_91
-    second: {fileID: 2100000, guid: 702945ad9b3e9f343b0340b448628d82, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ClassCard_910
-    second: {fileID: 2100000, guid: d0d78dd36376e064892807eb1cf7b492, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ClassCard_98
-    second: {fileID: 2100000, guid: d21f081a08fb4e54e9fb4ced66b1f3a5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ClassCard_Chemical
-    second: {fileID: 2100000, guid: e70f9e75f6a40df49bc535a598acfda6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ClassCard_Office
-    second: {fileID: 2100000, guid: 594f0049ced322e44b86b24ee21b4fd8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ClassCard_Special
-    second: {fileID: 2100000, guid: 72a932722c2c8f246abb510b9fb9215a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ClassCard_Teacher22
-    second: {fileID: 2100000, guid: affbf26b8c1dd7b42806e6cc78a0b93b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ClassCard_Teacher32
-    second: {fileID: 2100000, guid: 9bec1a4d9d1a3a143b98bbfb99d7cbfb, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Silver
-    second: {fileID: 2100000, guid: e92ffb5c2ff37b14ebefd52e43dd8ef7, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -94,13 +39,13 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -124,7 +69,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
@@ -139,11 +84,11 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   avatarSetup: 0
   additionalBone: 0

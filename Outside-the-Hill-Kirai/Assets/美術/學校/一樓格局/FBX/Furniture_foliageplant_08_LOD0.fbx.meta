@@ -1,63 +1,14 @@
 fileFormatVersion: 2
-guid: 0353d7430d945be47b7deb8a9a193983
+guid: 86a4d10e8ac1dec4b89a049543fe38cf
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: F_foliageplant_08_LOD0_01
-  - first:
-      1: 100002
-    second: F_foliageplant_08_LOD0_02
-  - first:
-      1: 100004
-    second: //RootNode
-  - first:
-      4: 400000
-    second: F_foliageplant_08_LOD0_01
-  - first:
-      4: 400002
-    second: F_foliageplant_08_LOD0_02
-  - first:
-      4: 400004
-    second: //RootNode
-  - first:
-      23: 2300000
-    second: F_foliageplant_08_LOD0_01
-  - first:
-      23: 2300002
-    second: F_foliageplant_08_LOD0_02
-  - first:
-      33: 3300000
-    second: F_foliageplant_08_LOD0_01
-  - first:
-      33: 3300002
-    second: F_foliageplant_08_LOD0_02
-  - first:
-      43: 4300000
-    second: F_foliageplant_08_LOD0_01
-  - first:
-      43: 4300002
-    second: F_foliageplant_08_LOD0_02
-  - first:
-      95: 9500000
-    second: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: F_foliageplant_08_00_mt
-    second: {fileID: 2100000, guid: bc70321385f5ca245b5d0189ed4e09a6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: F_foliageplant_08_01_mt
-    second: {fileID: 2100000, guid: 246a1f8415e3da1488d2496aeb3d5f18, type: 2}
+  internalIDToNameTable: []
+  externalObjects: {}
   materials:
     materialImportMode: 1
-    materialName: 1
+    materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -80,21 +31,21 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.01
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
-    fileIdsGeneration: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -103,22 +54,22 @@ ModelImporter:
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
     meshOptimizationFlags: -1
-    indexFormat: 1
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 4
-    normalCalculationMode: 0
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
@@ -130,17 +81,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.01
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
-    skeletonHasParents: 0
+    skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
-  additionalBone: 1
+  avatarSetup: 0
+  additionalBone: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

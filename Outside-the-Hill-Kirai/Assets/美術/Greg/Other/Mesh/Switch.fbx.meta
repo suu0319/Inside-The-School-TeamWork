@@ -1,32 +1,12 @@
 fileFormatVersion: 2
-guid: 7eb9dc5a995bb0840bbcb5b896d2a5bb
+guid: f980705f874d6d543be400508a318da3
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
   - first:
       74: 2108944049028585761
     second: Cube.005|Cube.005Action
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Black
-    second: {fileID: 2100000, guid: 3d49452515ecf0a4aabad3f76abd202a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Button
-    second: {fileID: 2100000, guid: 6a3c3a2601a57bb40b45a4ef5f27aafa, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Grey_blue
-    second: {fileID: 2100000, guid: ac284f5f5bb996e41be30d4445c3ae3f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Silver
-    second: {fileID: 2100000, guid: e92ffb5c2ff37b14ebefd52e43dd8ef7, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -62,13 +42,13 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

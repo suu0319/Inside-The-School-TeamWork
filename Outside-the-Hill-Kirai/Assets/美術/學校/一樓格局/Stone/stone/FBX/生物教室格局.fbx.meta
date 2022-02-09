@@ -1,49 +1,9 @@
 fileFormatVersion: 2
-guid: 36bb64a200cfeb545907f5d03fc5b5e0
+guid: b6fdf2074c100c1448fb534475bb1903
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5668\u6750\u7A7A\u9593Material"
-    second: {fileID: 2100000, guid: 0b043b925f23e7047890da6ef209f6ae, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u751F\u7269\u7A7A\u9593Material"
-    second: {fileID: 2100000, guid: e43b1c13e326ffb4ca08fce30b13ecfa, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u8B1B\u684CMaterial"
-    second: {fileID: 2100000, guid: 9e8dbf8ee49063a43bc9782566947dfc, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u93E1\u5B50Material"
-    second: {fileID: 2100000, guid: 12a3a0c10f6e3fc4098b88b6e1f9d1c9, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u5668\u6750\u7A7A\u9593&\u7A97\u6236&\u9580UVmap"
-    second: {fileID: 2800000, guid: cd114fac2f1517548a5e33b71d78bd9e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u751F\u7269\u7A7A\u9593&\u5927\u5668\u6750&\u71D2\u676FUVmap"
-    second: {fileID: 2800000, guid: ef44f6ed13e64eb4a9e343058a793782, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u7A97\u6236&\u93E1\u5B50&\u78C1\u78DAUVmap"
-    second: {fileID: 2800000, guid: 2dec48cb3519c284884099ec201d3064, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u8B1B\u684C&\u9ED1\u677F&\u7C89\u7B46UVmap"
-    second: {fileID: 2800000, guid: 9d5986ad955998145843bcc86bdf57c9, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -85,7 +45,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

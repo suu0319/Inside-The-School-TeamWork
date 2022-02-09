@@ -1,22 +1,12 @@
 fileFormatVersion: 2
-guid: 21009d0002ffcdd4da3ba81a74537954
+guid: bf591a9c07c6635408cd7dcef4b6c588
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
   - first:
       74: 1827226128182048838
     second: Take 001
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5EC1\u6240\u9580Material"
-    second: {fileID: 2100000, guid: c846df421a3edb243b28306f22fe10a8, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u5EC1\u6240\u9580&\u9580\u628AUVmap"
-    second: {fileID: 2800000, guid: 5026e77093b0b874f813a28bff5fa049, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -58,7 +48,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

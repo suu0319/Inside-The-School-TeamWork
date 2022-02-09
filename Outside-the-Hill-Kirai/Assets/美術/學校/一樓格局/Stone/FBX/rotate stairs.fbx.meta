@@ -1,29 +1,9 @@
 fileFormatVersion: 2
-guid: e1119698d42e4be4e91cee0bebb7b03e
+guid: 132ef047298037249a113a7e94e20c08
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #27
-    second: {fileID: 2100000, guid: 2276eaf75421b734fbcd555b8f3b769b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #28
-    second: {fileID: 2100000, guid: 562494b4b6b84be45ae97ca6a4403074, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: scratched-and-scraped-metal-texture-6
-    second: {fileID: 2800000, guid: 24555917783877548a2fc4b897b5cf5f, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u4E0B\u8F09 (1)"
-    second: {fileID: 2800000, guid: 4b7f83aac93d09b4a984399572d21064, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -65,7 +45,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

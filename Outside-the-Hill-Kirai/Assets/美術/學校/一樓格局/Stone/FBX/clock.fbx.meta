@@ -1,29 +1,9 @@
 fileFormatVersion: 2
-guid: c0424064ab6736d4ca5ffe302bdca984
+guid: d447b43ea2da85f4dacbdbd9461df7f5
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #28
-    second: {fileID: 2100000, guid: e87ed2cd107ea5f48a53921b1f7529f0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #29
-    second: {fileID: 2100000, guid: 2cfdeccaf6de1984aa4b5451b44c4a97, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: png-transparent-graphy-clock-face-wall-old-time-3d-computer-graphics-roman-numerals-wall
-    second: {fileID: 2800000, guid: b4d4968da200f7c4f8b70cab3a3d179c, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u4E0B\u8F09"
-    second: {fileID: 2800000, guid: a4dcb98906df54f47b10901956e103aa, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -65,7 +45,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

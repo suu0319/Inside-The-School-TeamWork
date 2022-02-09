@@ -1,19 +1,9 @@
 fileFormatVersion: 2
-guid: aed878cad396ebe458914716f796882f
+guid: 4f84262e7f259214a84d2a48cc720aee
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #25
-    second: {fileID: 2100000, guid: 3d14a86ed40ab1d4ba673695023a8d91, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: photo-1542732056-648731297c97
-    second: {fileID: 2800000, guid: 2419f3ba6c01c8143870447647ce48e1, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -55,7 +45,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

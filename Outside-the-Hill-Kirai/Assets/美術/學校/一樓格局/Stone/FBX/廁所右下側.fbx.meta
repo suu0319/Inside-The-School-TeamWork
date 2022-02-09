@@ -1,99 +1,9 @@
 fileFormatVersion: 2
-guid: 72f01a8d998b96a4daf94b820c662f63
+guid: 91168fa00abef7240b3abee363a20ed9
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5750\u5F0F\u99AC\u6876Material"
-    second: {fileID: 2100000, guid: 14fc92794fafc0f4d8ffe5a5db6600b2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5C0F\u4FBF\u6597\u9694\u677FMaterial"
-    second: {fileID: 2100000, guid: 3b6a4ccd04e03014daff03aa3c2473ce, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5EC1\u6240\u7A7A\u9593Material"
-    second: {fileID: 2100000, guid: f973db4ef9f013149898c516140eb918, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u5EC1\u6240\u9580Material"
-    second: {fileID: 2100000, guid: b780a7f89216bfb459ab6cfab2c25c98, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u6A19\u793A\u724CMaterial"
-    second: {fileID: 2100000, guid: 73115df71d1b988468b8eaedcbca5780, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u6D17\u624B\u53F0Material"
-    second: {fileID: 2100000, guid: 5addec41c64c15c409736857cf7c7b77, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u885B\u751F\u5783\u573E\u6876Material"
-    second: {fileID: 2100000, guid: 0ea0c8c311806cc4fb33227aa25abe69, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u8E72\u5F0F\u99AC\u6876Material"
-    second: {fileID: 2100000, guid: ae6c63587a7d3374588a20f6a5fc8c06, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u93E1\u5B50Material"
-    second: {fileID: 2100000, guid: fd64f7a89ac8e7746b639968962e95b9, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u5750\u5F0F\u99AC\u6876UVmap"
-    second: {fileID: 2800000, guid: e65242b2943a17a408d2e2dc095a0756, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u5C0F\u4FBF\u6597&\u9694\u677FUVmap"
-    second: {fileID: 2800000, guid: b8d49d63037460f44a5c609ae498e1e8, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u5EC1\u6240\u5929\u82B1\u677F&\u7246\u58C1UVmap"
-    second: {fileID: 2800000, guid: 26a356a5ab6d01e4798e8f695e388623, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u5EC1\u6240\u9580&\u9580\u628AUVmap"
-    second: {fileID: 2800000, guid: b4fdb0d62ae8bf84fb17e3c76d39ae7f, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u6A19\u793A\u724C&\u540A\u71C8UVmap"
-    second: {fileID: 2800000, guid: 759f45258450f7546ae26485d5de1698, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u6D17\u624B\u53F0UVmap"
-    second: {fileID: 2800000, guid: e480b8279607b0e46bca224896f0b0ad, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u7A97\u6236&\u93E1\u5B50&\u78C1\u78DAUVmap"
-    second: {fileID: 2800000, guid: 28fe3edeb3485c243a8644d9e9c1078d, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u885B\u751F\u7D19&\u5783\u573E\u6876UVmap"
-    second: {fileID: 2800000, guid: 93db9b529304e50489eb150f87eee38c, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u8E72\u5F0F\u99AC\u6876UVmap"
-    second: {fileID: 2800000, guid: eeb11ec1fa12e5c409b03776025e29f9, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -135,7 +45,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

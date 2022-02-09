@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: b075458f39532b24bb80e03c70f91f24
+guid: 0abd491f5c230ff408c6d03526cdf401
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Mat
-    second: {fileID: 2100000, guid: 5580143ab24932e4a9e918c48c563e9d, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -28,7 +23,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 3
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -44,13 +39,13 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -74,41 +69,11 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
-    skeleton:
-    - name: uploads_files_834778_grassmodels(formats)(Clone)
-      parentName: 
-      position: {x: 0, y: 0, z: 0}
-      rotation: {x: 0, y: 0, z: 0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: Cinema4D_Editor
-      parentName: uploads_files_834778_grassmodels(formats)(Clone)
-      position: {x: 1.1173724, y: 0.7399957, z: 1.1355247}
-      rotation: {x: -0.08109988, y: -0.42075574, z: 0.17100829, w: 0.88721114}
-      scale: {x: 1, y: 1, z: 1}
-    - name: 4
-      parentName: uploads_files_834778_grassmodels(formats)(Clone)
-      position: {x: -0.16965495, y: 0.051555775, z: -0.67580354}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: 3
-      parentName: uploads_files_834778_grassmodels(formats)(Clone)
-      position: {x: 0.16566916, y: 0.051526684, z: 0.115470886}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: 2
-      parentName: uploads_files_834778_grassmodels(formats)(Clone)
-      position: {x: 0.41491807, y: 0.05151816, z: -0.46215865}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: 1
-      parentName: uploads_files_834778_grassmodels(formats)(Clone)
-      position: {x: -0.5149618, y: 0.0037397577, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
+    skeleton: []
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
@@ -119,13 +84,13 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,19 +1,9 @@
 fileFormatVersion: 2
-guid: 216e01a990b33d5498d7dbce8556c009
+guid: 88f9869e27f4fba449d829db02d7941c
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pool_pCylinder1Mat
-    second: {fileID: 2100000, guid: 1e40d3ddbf1040144b4b8c0bfe26ad4d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pool_pCylinder2Mat
-    second: {fileID: 2100000, guid: 7f017e3cdf43cc8449213ab62769ad5b, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -55,7 +45,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

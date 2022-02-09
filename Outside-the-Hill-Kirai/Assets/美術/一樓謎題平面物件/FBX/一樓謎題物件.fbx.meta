@@ -1,89 +1,9 @@
 fileFormatVersion: 2
-guid: a8c8592623b4aa54aa3384621c09a303
+guid: e22064c44250e074ba29da16b47237c6
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #25
-    second: {fileID: 2100000, guid: 04899f84482884642b081ee83f58ad31, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #26
-    second: {fileID: 2100000, guid: fbc9697ad63604d49bc4d962d9c14870, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #29
-    second: {fileID: 2100000, guid: beb572f5d66f7dd49a99c24cdb2bbb26, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #30
-    second: {fileID: 2100000, guid: 5047f6ced921c9b4ab3ca6e650c811f3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #31
-    second: {fileID: 2100000, guid: a6cb001c0a55d2a4488f56629a393d91, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #32
-    second: {fileID: 2100000, guid: 0440e98e91b93e14d9ade3269e6d1350, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #33
-    second: {fileID: 2100000, guid: 5a56e47340f389a4ba2978731217a091, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #34
-    second: {fileID: 2100000, guid: 2035b375d1a814a419822254b79be34e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #35
-    second: {fileID: 2100000, guid: af0013456f1fece419e9874d6a514b22, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #36
-    second: {fileID: 2100000, guid: d7e13cfe44e384f418d68a636a491317, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u5433\u4FCA\u5091\u540D\u724C"
-    second: {fileID: 2800000, guid: 9a574d7e3084e8947af2d2f906e564d3, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u5B78\u6821\u96FB\u5668\u958B\u95DC\u914D\u7F6E\u5716"
-    second: {fileID: 2800000, guid: 059e606d13d638e4f9d02d7c7328356b, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u738B\u5FD7\u660E\u540D\u724C"
-    second: {fileID: 2800000, guid: 5e7fa278fcca37d44b9f3ab50e1e5fdd, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u751F\u7269\u9470\u5319\u4FDD\u7BA1\u8868"
-    second: {fileID: 2800000, guid: 1ed91062c49e5c4479f9f8b65e0fc495, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u9673\u5BB6\u8C6A\u540D\u724C"
-    second: {fileID: 2800000, guid: e7ef331df84348d4ca45c2c7928d9536, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: "\u9EC3\u6BD3\u5A55\u540D\u724C"
-    second: {fileID: 2800000, guid: 93f34e2e920a6234ca2230d790eea079, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -119,13 +39,13 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -149,7 +69,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
